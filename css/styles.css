@@ -13,10 +13,6 @@ a{
 text-decoration: none;
 }
 
-button {
-    cursor: pointer;
-    }
-
 .logo{ 
 font-family: "Raleway", sans-serif;
 font-weight: 700;
@@ -83,16 +79,158 @@ color: #434455;
     }
 
     .hero-button {
+        font-weight: 500;
+        font-size: 16px;
+        cursor: pointer;
         color: #ffffff;
-        border-radius: 4px;
-        padding: 16px 32px;
-        width: 169px;
-        height: 56px;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background-color: #4d5ae5;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
     }   
     
     .hero-button:hover,
     .hero-button:focus{
         background-color:#404bbf;
     }
+
+    .strategy{
+        font-weight: 500; 
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color:#2e2f42
+    }
+
+  .strategy-paragraf{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+  }  
+
+    .h2-adv {
+        display: none;
+    }
+
+    .our-team{
+        background: #f4f4fd;
+    }
+
+    .h2-our-team{
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+text-transform: capitalize;
+    }
+
+    .mark-guerrero{
+background-color: #FFFFFF;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+    }
+
+    .h3-mark-guerrero{
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+    }
+
+    .our-portfolio{
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+text-transform: capitalize;
+    }
+
+    .h3-banking-app{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.app{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.h3-cashless-payment{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.marketing{
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.h3-meditation-app{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.h3-taxi-service{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.h3-screen-illustrations{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.design{
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.h3-online-courses{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.increase{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+
+.section-our-portfolio{
+    background: #f4f4fd;
+}
