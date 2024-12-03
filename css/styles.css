@@ -5,7 +5,7 @@ body {
 }
 
 ul, ol {
-    list-style-type: none
+    list-style-type: none;
 }
 
 a {
@@ -15,7 +15,7 @@ a {
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
-    line-height: 1,17;
+    line-height: 1.17;
     font-size: 18px;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -23,6 +23,8 @@ a {
 
 .header-logo .logo-part {
     color: #2e2f42;
+    letter-spacing: 0.03em;
+    line-height: 1.17;
 }
 
 .footer-logo .logo-part {
@@ -65,6 +67,8 @@ a {
 
 .hero {
     background-color: #2e2f42;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
 .hero-title {
@@ -75,6 +79,8 @@ a {
 }
 
 .hero-button {
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     font-weight: 500;
     font-size: 16px;
     cursor: pointer;
@@ -106,11 +112,13 @@ a {
     color: #434455;
 }
 
-.increase{
+.increase {
     color: #f4f4fd;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
-.h2-adv{
+.h2-adv {
     display: none;
 }
 
@@ -143,4 +151,33 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.portfolio-title {
+    display: none;
+}
+
+.strategy{
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.strategy-paragraf{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.h2-our-team{
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+.mark-guerrero{
+    background-color: #FFFFFF;
+}
+
+.footer-logo{
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
 }
