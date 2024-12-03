@@ -157,27 +157,27 @@ a {
     display: none;
 }
 
-.strategy{
+.strategy {
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
-.strategy-paragraf{
+.strategy-paragraf {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.h2-our-team{
+.h2-our-team {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
-.mark-guerrero{
+.mark-guerrero {
     background-color: #FFFFFF;
 }
 
-.footer-logo{
-    line-height: 1.16667;
+.footer-logo {
+    line-height: 1.17;
     letter-spacing: 0.03em;
 }
