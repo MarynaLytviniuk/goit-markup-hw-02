@@ -120,6 +120,9 @@ a {
     letter-spacing: 0.02em;
 }
 
+.h2-adv {
+}
+
 .h2-adv,
 .h2-our-team,
 .portfolio-title {
@@ -167,8 +170,10 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.h2-adv, 
+
 .h2-our-team {
+    line-height: 1.11;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
